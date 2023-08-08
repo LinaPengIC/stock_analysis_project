@@ -1,0 +1,14 @@
+Summary Report for Stock Return Analysis
+==========================================
+
+Weibull Distribution Parameters:
+Shape (c): 1.0
+Location (loc): 0
+Scale (scale): 1
+
+Extreme Value Thresholds:
+Lower Threshold (1% quantile): 0.010050335853501442
+Upper Threshold (99% quantile): 4.605170185988091
+
+Count of Extreme Lower Values in Simulated Returns: 1
+Count of Extreme Upper Values in Simulated Returns: 2
